@@ -1,0 +1,23 @@
+.Card {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.Card-header {
+  width: 300px;
+  height: 25px;
+}
+
+.Card-info {
+  display: flex;
+  gap: 20px;
+}
+
+.Card-info-title {
+  width: 150px;
+}
+
+.Card-info-input {
+  width: 300px;
+}
